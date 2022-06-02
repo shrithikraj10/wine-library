@@ -1,0 +1,47 @@
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.primary{
+  text-align: center;
+  background-color: lavender;
+  padding: 2rem 0 2rem 0;
+  font-size: 1rem;
+}
+.heading{
+  font-family: 'Great Vibes', cursive;
+  font-size: 7rem;
+
+}
+.bottle{
+  max-width: 100%;
+  height: auto;
+  padding: 3rem 0 3rem 0;
+}
+.body{
+  padding: 4rem 8rem 4rem 8rem;
+}
+.welcome{
+  font-size: 6rem;
+  font-family: sans-serif;
+}
+.para{
+  padding: 0 0.7rem 0 0.7rem;
+  font-size: 2.5rem;
+  font-family: sans-serif;
+}
+.feet{
+  display: flex;
+  justify-content: center;
+ background-color: lavender;
+}
+.feet1, .feet2{
+  padding: 2rem;
+  text-align: center;
+  background-color: lavender;
+  font-size: 2rem;
+  font-family: sans-serif;
+
+}
